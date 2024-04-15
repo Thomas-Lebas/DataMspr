@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_jlxoAOaKEe6IKazr6lG5fA" name="MSPR_BDD" id="_e5k-oOaKEe6IKazr6lG5fA" label="MSPR_BDD" dataPackage="_t9In8OaLEe6DycEBWnQY1g" DatabaseType="SQLite" DriverClass="org.sqlite.JDBC" URL="jdbc:sqlite:/c:/program files (x86)/tos_di-8.0.1/studio/workspace/datamspr/_output/data.db" Port="" Username="" Password="" ServerName="" DatasourceName="" FileFieldName="C:/Program Files (x86)/TOS_DI-8.0.1/studio/workspace/DATAMSPR/_output/Data.db" SID="" SqlSynthax="" StringQuote="" NullChar="" DbmsId="sqlite_id" ProductId="SQLITE" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_jly2IOaKEe6IKazr6lG5fA" tag="Is Conn Need Reload" value="true"/>
+    <taggedValue xmi:id="_jmG_MOaKEe6IKazr6lG5fA" tag="package filter" value=""/>
+    <taggedValue xmi:id="_jmKpkOaKEe6IKazr6lG5fA" tag="Status" value=""/>
+    <taggedValue xmi:id="_jmKpkeaKEe6IKazr6lG5fA" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_jmKpkuaKEe6IKazr6lG5fA" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_jmKpk-aKEe6IKazr6lG5fA" tag="Description" value=""/>
+    <taggedValue xmi:id="_jmKplOaKEe6IKazr6lG5fA" tag="Author" value=""/>
+    <taggedValue xmi:id="_jmKpleaKEe6IKazr6lG5fA" tag="otherParameter"/>
+    <taggedValue xmi:id="_t4-gsOaLEe6DycEBWnQY1g" tag="DB ProductName" value="SQLite"/>
+    <taggedValue xmi:id="_t4-gseaLEe6DycEBWnQY1g" tag="DB ProductVersion" value="3.6.14.2"/>
+    <taggedValue xmi:id="_t4-gsuaLEe6DycEBWnQY1g" tag="DB IdentifierQuoteString" value=" "/>
+    <parameters xmi:id="_jly2IeaKEe6IKazr6lG5fA" key="CONN_PARA_KEY_USERNAME" value=""/>
+    <parameters xmi:id="_qEoFUOaLEe6DycEBWnQY1g" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Schema xmi:id="_t9In8OaLEe6DycEBWnQY1g" name=" " dataManager="_jlxoAOaKEe6IKazr6lG5fA"/>
+</xmi:XMI>

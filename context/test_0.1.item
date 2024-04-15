@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_t0oSEMWjEe6Lj6uymNzNKw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_t0oSEcWjEe6Lj6uymNzNKw" comment="" name="test_XmlFilePath" prompt="test_XmlFilePath?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/Program Files (x86)/TOS_DI-8.0.1/studio/workspace/DATAMSPR/_input/test.xml"/>
+  <contextParameter xmi:id="_t0oSEsWjEe6Lj6uymNzNKw" comment="" name="test_Encoding" prompt="test_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8"/>
+  <contextParameter xmi:id="_t0oSE8WjEe6Lj6uymNzNKw" comment="" name="test_XPathQuery" prompt="test_XPathQuery?" promptNeeded="false" repositoryContextId="" type="id_String" value="*"/>
+</talendfile:ContextType>
